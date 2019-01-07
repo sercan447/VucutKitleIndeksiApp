@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VucutKitleIndeksi</string>
+    <string name="bayan">Bayan</string>
+    <string name="bay">Bay</string>
+    
+    <string name="zayif">Zayıf Durumdasınız.</string>
+    <string name="ideal">İdeal kilodasınız.</string>
+    <string name="normalden_fazla">Normaalden fazla kilodasınız.</string>
+    <string name="fazla_kilolu">Fazla kilolusunuz.</string>
+    <string name="obez">Obez durumdasınız.</string>
+    <string name="doktora">Doktor tedavisine ihityacınız var.</string>
+</resources>

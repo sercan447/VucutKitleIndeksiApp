@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Body Mass Index</string>
+    <string name="bay">Man</string>
+    <string name="bayan">Women</string>
+
+    <string name="zayif">Youre weak.</string>
+<string name="ideal">Normal panteis here.</string>
+<string name="normalden_fazla">More than normal weight.</string>
+<string name="fazla_kilolu">Overweight</string>
+<string name="obez">Sorry, you obese..</string>
+<string name="doktora">Need to doctor treatment..</string>
+</resources>

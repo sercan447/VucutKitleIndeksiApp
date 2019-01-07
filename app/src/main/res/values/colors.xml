@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="zayif">#8bc34A</color>
+    <color name="durum_ideal">#4679</color>
+    <color name="durum_idealden_fazla">#FF9800</color>
+    <color name="durum_fazla_kilolu">#e65100</color>
+    <color name="durum_obez">#dd2c00</color>
+    <color name="durum_doktora">#d50000</color>
+</resources>
